@@ -5,7 +5,7 @@
 理提供数据支撑。
 ## **数据来源**
 数据集百度云下载方式 
-链接: https://pan.baidu.com/s/12W4Bi8gkYNaEDTi6M9o_gA 提取码: 3xd9
+链接: https://pan.baidu.com/s/12W4Bi8gkYNaEDTi6M9o_gA 提取码: 3xd9   
 会员信息表（cumcm2018c1.xlsx）：包含会员卡号、性别、出生日期、登记时间等基础信息
 销售流水表（cumcm2018c2.csv）：包含消费时间、消费金额、销售数量、会员积分等交易数据
 ## 输出文件说明
@@ -34,9 +34,9 @@ pip install pandas numpy matplotlib seaborn wordcloud scikit-learn openpyxl
 This project is based on member information and sales transaction data of a department store. Through data cleaning, exploratory analysis, user profile construction and clustering algorithms, it achieves in-depth insight into member consumption behavior and customer segmentation, providing data support for precision marketing and customer relationship management.
 ## **Data Sources**
 Baidu Cloud download link for the dataset:
-Link: https://pan.baidu.com/s/12W4Bi8gkYNaEDTi6M9o_gA  Extraction Code: 3xd9
-Member Information Table (cumcm2018c1.xlsx): Contains basic information such as member ID, gender, date of birth, and registration time.
-Sales Transaction Table (cumcm2018c2.csv): Contains transaction data such as consumption time, consumption amount, sales quantity, and member points.
+Link: https://pan.baidu.com/s/12W4Bi8gkYNaEDTi6M9o_gA  Extraction Code: 3xd9   
+Member Information Table (cumcm2018c1.xlsx): It contains basic information such as member ID, gender, date of birth, and registration time.
+Sales Transaction Table (cumcm2018c2.csv): It contains transaction data such as consumption time, consumption amount, sales quantity, and member points.
 ## Output File Description
 File Path	      Description
 ./vip_info.csv	Cleaned detailed member consumption data
