@@ -9,7 +9,7 @@
 会员信息表（cumcm2018c1.xlsx）：包含会员卡号、性别、出生日期、登记时间等基础信息         
 销售流水表（cumcm2018c2.csv）：包含消费时间、消费金额、销售数量、会员积分等交易数据
 ## 输出文件说明
-文件路径	      说明
+文件路径及说明   
 ./vip_info.csv  清洗后的会员消费详细数据  
 ./LRFMPSX.csv   会员LRFMPSX核心指标与特征数据  
 ./consumers_profile.csv	 会员个性化画像数据  
@@ -38,14 +38,14 @@ Link: https://pan.baidu.com/s/12W4Bi8gkYNaEDTi6M9o_gA  Extraction Code: 3xd9
 Member Information Table (cumcm2018c1.xlsx): It contains basic information such as member ID, gender, date of birth, and registration time.
 Sales Transaction Table (cumcm2018c2.csv): It contains transaction data such as consumption time, consumption amount, sales quantity, and member points.
 ## Output File Description
-File Path	       Description
-./vip_info.csv	 Cleaned detailed member consumption data  
-./LRFMPSX.csv	 Core indicators and feature data of member LRFMPSX  
-./consumers_profile.csv	 Personalized member profile data  
-./Member Birth Decade and Gender Ratio.png	 Visual chart of basic member characteristics  
-./Quarterly and Daily Average Consumption Preference.png	 Visual chart of consumption time preference  
-./LRFMP Clustering Silhouette Coefficient Chart.png	 Clustering effect evaluation chart  
-./LRFMP Average Difference Between Two Customer Groups.png	 Visual chart of customer segmentation differences
+File Path & Description   
+./vip_info.csv	  Cleaned detailed member consumption data  
+./LRFMPSX.csv	  Core indicators and feature data of member LRFMPSX  
+./consumers_profile.csv	  Personalized member profile data  
+./Member Birth Decade and Gender Ratio.png	  Visual chart of basic member characteristics  
+./Quarterly and Daily Average Consumption Preference.png	  Visual chart of consumption time preference  
+./LRFMP Clustering Silhouette Coefficient Chart.png	  Clustering effect evaluation chart  
+./LRFMP Average Difference Between Two Customer Groups.png	  Visual chart of customer segmentation differences
 ## Running Instructions
 Environment Dependence Installation
 bash
